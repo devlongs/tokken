@@ -5,7 +5,7 @@ A command-line interface tool for deploying ERC20 tokens to any EVM-compatible b
 
 - Deploy ERC20 tokens to any EVM-compatible networks
 - Customizable token parameters (name, symbol, decimals, supply)
-- Automatic gas price estimation
+- Automatic gas price estimations
 - Manual gas price configuration option
 - Transaction monitoring and deployment verification
 - Support for secure private key input
